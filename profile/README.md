@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./scrubmarine.svg" alt="A crawler robot scrubs fouling off the ScrubMarine logo" width="100%">
+  <img src="./banner.svg" alt="A crawler robot scrubs fouling off the ScrubMarine logo" width="100%">
 </p>
 
 <p align="center">
