@@ -4,5 +4,5 @@
 
 <p align="center">
   Autonomous underwater robots for hull cleaning and inspection.<br>
-  <a href="https://scrubmarine.com">scrubmarine.com</a>
+  <a href="https://scrubmarine.co.uk">scrubmarine.co.uk</a>
 </p>
